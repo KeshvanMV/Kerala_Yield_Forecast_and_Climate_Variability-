@@ -9,8 +9,8 @@ The primary objective is to quantify how shifts in climate factors (monsoon beha
 
 | Source | Variables | Coverage |
 |--------|-----------|----------|
-| **IMD** | Rainfall | 1990–2023 |
-| **NASA POWER** | Temperature, Humidity, Soil Moisture | 1984–2023 |
+| **IMD** | Rainfall | 1990–2025 |
+| **NASA POWER** | Temperature, Humidity, Soil Moisture | 1984–2025 |
 | **UPAg** | Historical Yield (13 crops) | 1961–2023 |
 
 ### Preprocessing and Cleaning
